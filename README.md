@@ -1,10 +1,10 @@
 ![](pyton.png)
 
-                                  1. Challenges
+                                   1. Numeracy
                                                \
-                                  2. Skills -> 4. Messaging -> 5. Leadership -> 6. Dominance
+                                      2. GUI -> 4. Web -> 5. Admin -> 6. Software
                                                /
-                                                3. Tools
+                                               3. Tools
 
 ### Personal 1, 2, [3](https://www.python.org)
 ### Interpersonal 4

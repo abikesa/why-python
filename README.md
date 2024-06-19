@@ -1,4 +1,4 @@
-![](python.png)
+![](pyton.png)
 
                                   1. Challenges
                                                \

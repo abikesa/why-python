@@ -1,4 +1,4 @@
-![](pyton.png)
+![](python.png)
 
                                    1. Numeracy
                                                \
